@@ -1,0 +1,6 @@
+{
+  "name": "مدرسة عمرو بن العاص - الخطط الأسبوعية",
+  "description": "منصة الخطط الأسبوعية لمدرسة عمرو بن العاص المتوسطة لتمكين أولياء الأمور من الاطلاع على الدروس ومتابعة نسب إنجاز المعلمين",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
